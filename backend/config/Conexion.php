@@ -5,10 +5,10 @@ if(!isset($_SESSION))
     }
 
 // Define database
-define('dbhost', 'localhost');
-define('dbuser', 'root');
-define('dbpass', '');
-define('dbname', 'computer_advance');
+define('dbhost', 'bote1w1g6p3k3vbbuhva-mysql.services.clever-cloud.com');
+define('dbuser', 'uu84uwa4nw6umz2l');
+define('dbpass', 'gB5B1yEkqfWymykRh7Vr');
+define('dbname', 'bote1w1g6p3k3vbbuhva');
 
 // Connecting database
 try {
