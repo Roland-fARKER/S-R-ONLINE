@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'SyRonline'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_63D3DD2E47F04FFF8162D7DA30ACA810 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C2B4DF674D5449F888F5A24C308B39C5 }}
           package: .
